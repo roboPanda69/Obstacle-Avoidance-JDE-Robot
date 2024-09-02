@@ -31,5 +31,5 @@ The main Python script (`obstacle_avoidance.py`) contains the following key func
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/obstacle-avoidance-robot.git
+   git clone https://github.com/roboPanda69/Obstacle-Avoidance-JDE-Robot.git
 
